@@ -1,3 +1,5 @@
 *.tar
 mac_n_cheese_inference_graph1
 mac_n_cheese_inference_graph
+ssd_mobilenet_v1_coco_11_06_2017
+ssd_mobilenet_v1_coco_2017_11_17
